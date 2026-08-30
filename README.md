@@ -18,7 +18,7 @@ Sou apaixonado por tecnologia, com formação técnica em informática e, atualm
 
 ### Projetos em Destaque & Contribuições
 
-* **[PetMora](https://github.com/byingridsantana/petmorafullstack):** Uma plataforma fullstack desenvolvida para oferecer uma solução acessível e confiável a tutores que enfrentam dificuldades para viajar ou se ausentar devido à preocupação com seus animais de estimação.
+* **[PetMora](https://github.com/PedroCoiado/petmorafullstack):** Uma plataforma fullstack desenvolvida para oferecer uma solução acessível e confiável a tutores que enfrentam dificuldades para viajar ou se ausentar devido à preocupação com seus animais de estimação.
   * **Minha contribuição:** Fui o responsável por arquitetar e criar a integração do banco de dados com o Back-End.
 * **GastroRadar:** Ecossistema técnico para recomendação de restaurantes, construído com ferramentas de automação e integração com as APIs do Google Maps. Equipe de até 8 pessoas.
 * **Sistema de Gestão de Estacionamento:** Aplicação lógica desenvolvida em Python, onde liderei a estruturação e os módulos de código de uma equipe de 9 pessoas.
